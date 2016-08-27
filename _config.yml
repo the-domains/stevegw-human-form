@@ -1,30 +1,14 @@
-name: stevegw-human-form
-favicon: null
-layout_spectrum: 0.24283
+layout_spectrum: 0.6645919245202094
 typography_spectrum: 0.40441945591010153
-title: Human Form
-description: 'Most know and most critiqued '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
-  brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
   brandStrength: 0.8564219495747238
   lightness: 0.2700090720318258
   saturation: 0.41265360545367
   rhythmicContrast: 0.035384057089686394
-purpose: []
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: stevegw-human-form
