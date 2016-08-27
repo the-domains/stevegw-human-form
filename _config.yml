@@ -1,0 +1,14 @@
+layout_spectrum: 0.6645919245202094
+typography_spectrum: 0.40441945591010153
+color:
+  brandStrength: 0.8564219495747238
+  lightness: 0.2700090720318258
+  saturation: 0.41265360545367
+  rhythmicContrast: 0.035384057089686394
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: stevegw-human-form
