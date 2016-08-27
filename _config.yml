@@ -1,4 +1,3 @@
-layout_spectrum: 0.6645919245202094
 typography_spectrum: 0.40441945591010153
 color:
   brandStrength: 0.8564219495747238
@@ -11,4 +10,6 @@ color:
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
+layout_spectrum: 0.6645919245202094
 name: stevegw-human-form
+title: Human Form
