@@ -34,6 +34,9 @@ navigation:
   - name: Game Art
     url: 'http://thegrid.ai/sketchytime-game-art'
     type: external
+  - name: About
+    url: 'http://thegrid.ai/stevegw-about'
+    type: external
 favicon: null
 title: Human Form
 description: 'Most know and most critiqued '
