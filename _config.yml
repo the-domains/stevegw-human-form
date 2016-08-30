@@ -28,6 +28,9 @@ navigation:
   - name: Home
     url: 'http://stevegw.today'
     type: external
+  - name: Pastels
+    url: 'http://thegrid.ai/sketchytime-pastels'
+    type: external
 favicon: null
 title: Human Form
 description: 'Most know and most critiqued '
