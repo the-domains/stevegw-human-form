@@ -31,6 +31,9 @@ navigation:
   - name: Pastels
     url: 'http://thegrid.ai/sketchytime-pastels'
     type: external
+  - name: Game Art
+    url: 'http://thegrid.ai/sketchytime-game-art'
+    type: external
 favicon: null
 title: Human Form
 description: 'Most know and most critiqued '
